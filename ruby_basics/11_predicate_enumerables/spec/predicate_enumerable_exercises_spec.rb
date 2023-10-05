@@ -1,4 +1,4 @@
-require 'spec_helper'
+require_relative 'spec_helper'
 require_relative '../exercises/predicate_enumerable_exercises'
 
 RSpec.describe 'Predicate Enumerable Exercises' do
